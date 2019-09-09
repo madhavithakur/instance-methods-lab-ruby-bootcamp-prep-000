@@ -1,13 +1,13 @@
-# Class Dog 
+Class Dog 
 
-# def bark
-#   puts "Woof!"
-# end 
+def bark
+  puts "Woof!"
+end 
 
-# def sit
-#   puts "The Dog is sitting"
-# end
-# end
+def sit
+  puts "The Dog is sitting"
+end
+end
 
 # class Dog
 #   attr_accessor :name
