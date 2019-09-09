@@ -1,4 +1,4 @@
-Class Dog 
+cClass Dog 
 
  def bark
   puts "Woof!"
